@@ -226,13 +226,15 @@ http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="☘️地方",无线新闻台
 rtmp://nowast.net/live/yifatv-wxxw01
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="☘️地方",TVB翡翠台
-rtmp://nowast.net/live/yifatv-jade01
+http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="☘️地方",TVB翡翠台
 https://stream1.freetv.fun/fei-cui-14.ctv
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="☘️地方",TVB明珠台
-https://stream1.freetv.fun/ming-zhu-7.ctv
+http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="☘️地方",TVB明珠台
-https://stream1.freetv.fun/1b88873a8652313af0d13be1327f60bc25f325dd2dca197899cf4d2f81444232.ctv
+https://stream1.freetv.fun/ming-zhu-7.ctv
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="☘️地方",中天新闻台
+http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 #EXTINF:-1 tvg-name="华视HD" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="☘️地方",华视HD
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="华视HD" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="☘️地方",华视HD
@@ -249,6 +251,7 @@ rtmp://f13h.mine.nu:1935/sat/tv721
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/radio/abc.png" group-title="☘️地方",ABC News
 https://c.mjh.nz/abc-news.m3u8
+
 
 
 
