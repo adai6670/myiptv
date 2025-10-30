@@ -222,7 +222,7 @@ http://gslbserv.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Cont
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/fenghuangzixun.png" group-title="☘️地方",凤凰卫视资讯台
 https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/fenghuangxianggang.png" group-title="☘️地方",凤凰卫视香港台
-https://stream1.freetv.fun/feng-huang-wei-shi-xiang-gang-2.ctv
+http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="☘️地方",无线新闻台
 rtmp://nowast.net/live/yifatv-wxxw01
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="☘️地方",TVB翡翠台
@@ -249,5 +249,6 @@ rtmp://f13h.mine.nu:1935/sat/tv721
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/radio/abc.png" group-title="☘️地方",ABC News
 https://c.mjh.nz/abc-news.m3u8
+
 
 
